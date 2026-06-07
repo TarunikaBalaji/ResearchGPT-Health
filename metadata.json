@@ -1,0 +1,6 @@
+{
+  "name": "ResearchGPT-Health",
+  "description": "A Gemini-powered healthcare research assistant for summarizing papers, extracting key findings, discovering research gaps, chatting with literature, and generating custom research reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

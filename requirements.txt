@@ -1,0 +1,8 @@
+# Target Python dependencies for ResearchGPT-Health FastAPI Backend
+fastapi>=0.100.0
+uvicorn>=0.22.0
+google-genai>=0.1.0
+pydantic>=2.0.0
+pypdf>=3.10.0
+multipart>=0.2.4
+python-multipart>=0.0.6
