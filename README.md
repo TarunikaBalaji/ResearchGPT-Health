@@ -1,3 +1,4 @@
+ <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c9e1dc22-d0e9-4a1f-a28f-daa27a1ce742" />
 # ResearchGPT-Health
 
 ResearchGPT-Health is a Gemini-powered healthcare research intelligence platform designed to analyze scientific literature, identify research gaps, generate executive reports, and enable grounded conversations across uploaded research papers.
